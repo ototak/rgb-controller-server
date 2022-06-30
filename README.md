@@ -1,1 +1,3 @@
 # rgb-controller-server
+パソコンのライティングを外部から操作できるようにするAPIです。
+動作させるにはopenrgbからサーバー機能を有効化し、openrgbとopenrgb-sdkとexpressをインストールする必要があります。
