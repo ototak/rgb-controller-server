@@ -4,4 +4,4 @@
 
 
 ## Sample application(iOS)
- [https://github.com/ottotak/rgb-controller-app](https://github.com/ottotak/rgb-controller-app)
+ [https://github.com/ottotak/rgb-controller-ios](https://github.com/ottotak/rgb-controller-ios)
