@@ -5,3 +5,5 @@
 
 ## Sample application(iOS)
  [https://github.com/ottotak/rgb-controller-ios](https://github.com/ottotak/rgb-controller-ios)
+## Sample application(Apple Watch)
+ [https://github.com/ottotak/rgb-controller-watchos](https://github.com/ottotak/rgb-controller-watchos)
