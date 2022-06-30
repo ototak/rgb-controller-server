@@ -1,8 +1,12 @@
 # rgb-controller-server
-パソコンのライティングを外部から操作できるようにするAPIです。  
-動作させるにはopenrgbをインストールし、サーバー機能を有効化する必要があります。
-
-
+It is an API that allows you to operate the lighting of your computer.  
+You need to install openrgb and enable the server for it to work.
+# ⭐Features
+ - Change color
+# Example
+```bash
+curl localhost:3000/api/RGB/FF0000
+```
 ## Sample application(iOS)
  [https://github.com/ottotak/rgb-controller-ios](https://github.com/ottotak/rgb-controller-ios)
 ## Sample application(Apple Watch)
