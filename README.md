@@ -5,7 +5,12 @@ You need to install openrgb and enable the server for it to work.
  - Change color
 # Example
 ```bash
-curl localhost:3000/api/RGB/FF0000
+curl 'http://localhost:3000/api/RGB/FF0000'
+# RED
+curl 'http://localhost:3000/api/RGB/00FF00'
+# GREEN
+curl 'http://localhost:3000/api/RGB/0000FF'
+# BLUE
 ```
 ## Sample application(iOS)
  [https://github.com/ottotak/rgb-controller-ios](https://github.com/ottotak/rgb-controller-ios)
