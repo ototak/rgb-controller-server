@@ -3,7 +3,9 @@ It is an API that allows you to operate the lighting of your computer.
 You need to install openrgb and enable the server for it to work.
 # ⭐Features
  - Change color
- - #
+# Requirement
+openrgb
+nodejs
 # How to build
 ```bash
 sudo apt update -y
