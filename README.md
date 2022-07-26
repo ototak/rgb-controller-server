@@ -41,7 +41,7 @@ curl 'http://localhost:3000/api/RGB/0000FF'
 # BLUE
 ```
 
-#📱Sample application(iOS)
+# 📱Sample application(iOS)
  [https://github.com/ottotak/rgb-controller-ios](https://github.com/ottotak/rgb-controller-ios)
-#⌚️Sample application(Apple Watch)
+# ⌚️Sample application(Apple Watch)
  [https://github.com/ottotak/rgb-controller-watchos](https://github.com/ottotak/rgb-controller-watchos)
