@@ -13,7 +13,7 @@ sudo add-apt-repository ppa:thopiekar/openrgb -y # add repository
 sudo apt update -y
 sudo apt install openrgb -y # install openrgb
 
-git clone https://github.com/ototak/rgb-controller-server # clone this repository.
+git clone https://github.com/zozonteq/rgb-controller-server # clone this repository.
 cd rgb-controller-server # go to repository
 npm i # resolve dependencies
 cd src # go to src
@@ -24,7 +24,7 @@ node index.js # execute
 yay -Syu # update packages
 yay -S openrgb # install openrgb
 
-git clone https://github.com/ototak/rgb-controller-server # clone this repository.
+git clone https://github.com/zozonteq/rgb-controller-server # clone this repository.
 cd rgb-controller-server # go to repository
 npm i # resolve dependencies
 cd src # go to src
