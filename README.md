@@ -9,27 +9,26 @@ nodejs
 # 🔨How to build
 ## ubuntu
 ```bash
+sudo add-apt-repository ppa:thopiekar/openrgb -y # add repository
 sudo apt update -y
-sudo add-apt-repository ppa:thopiekar/openrgb -y
-sudo apt update -y
-sudo apt install openrgb -y
+sudo apt install openrgb -y # install openrgb
 
-git clone https://github.com/ototak/rgb-controller-server
-cd rgb-controller-server
-npm install
-cd src
-npm index.js
+git clone https://github.com/ototak/rgb-controller-server # clone this repository.
+cd rgb-controller-server # go to repository
+npm i # resolve dependencies
+cd src # go to src
+node index.js # execute
 ```
 ## ArchLinux
 ```bash
-yay -Syu
-yay -S openrgb
+yay -Syu # update packages
+yay -S openrgb # install openrgb
 
-git clone https://github.com/ototak/rgb-controller-server
-cd rgb-controller-server
-npm install
-cd src
-nom index.js
+git clone https://github.com/ototak/rgb-controller-server # clone this repository.
+cd rgb-controller-server # go to repository
+npm i # resolve dependencies
+cd src # go to src
+node index.js # execute
 ```
 # 🗒Example
 ```bash
