@@ -6,7 +6,7 @@ You need to install openrgb and enable the server for it to work.
 # ❗️Requirement
 openrgb
 nodejs
-# 🔨How to build
+# 🔨install
 ## ubuntu
 ```bash
 sudo add-apt-repository ppa:thopiekar/openrgb -y # add repository
